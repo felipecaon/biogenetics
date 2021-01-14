@@ -1,2 +1,2 @@
 run:
-	python3 DNAToolkit.py
+	python3 main.py
